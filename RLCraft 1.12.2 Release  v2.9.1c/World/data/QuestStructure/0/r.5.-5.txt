@@ -1,0 +1,4 @@
+SmallOutpost,2719,2749,-2901,-2879
+BrickHenge,2775,2791,-2922,-2906
+RLCraft_Airtes,2794,2809,-2915,-2900
+P_VillageFarmhouse,2835,2847,-2900,-2888

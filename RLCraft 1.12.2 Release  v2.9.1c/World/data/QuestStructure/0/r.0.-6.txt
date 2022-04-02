@@ -1,0 +1,2 @@
+ShrineSmallWater,270,278,-3207,-3199
+ShrineSmallFire,477,487,-3456,-3446

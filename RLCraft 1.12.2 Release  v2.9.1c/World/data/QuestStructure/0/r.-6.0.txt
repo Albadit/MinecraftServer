@@ -1,0 +1,8 @@
+StonePlantMound2,-3169,-3157,-22,-9
+RLCraft_BasicCaveSpider,-3109,-3109,37,37
+RLCraft_UndergroundRuin1,-3115,-3106,31,40
+StonePlantMound1,-3228,-3222,-28,-22
+StonePlantMound1,-3359,-3353,84,90
+StoneBoulder,-3339,-3330,28,37
+DinosaurSkeleton,-3407,-3361,32,41
+StoneLeafMound,-3305,-3298,23,32

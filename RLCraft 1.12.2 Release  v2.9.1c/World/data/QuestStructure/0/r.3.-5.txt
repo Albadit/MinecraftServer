@@ -1,0 +1,6 @@
+StonePlantBoulder,1781,1791,-2738,-2728
+StonePlantMound3,1817,1826,-2804,-2793
+ShrineSmallFire,1732,1742,-2739,-2729
+StoneBoulder,1839,1848,-2679,-2670
+AbandonedWoodTower,1784,1814,-2832,-2796
+StoneLeafMound,1719,1728,-2705,-2698

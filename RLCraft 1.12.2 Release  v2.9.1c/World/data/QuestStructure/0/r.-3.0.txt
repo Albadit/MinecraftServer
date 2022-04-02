@@ -1,0 +1,5 @@
+StoneBoulder,-1904,-1895,394,403
+SmallFortRuinsJapanese,-1962,-1916,225,271
+ShrineSmallFire,-1938,-1928,502,512
+DinosaurSkeleton,-1854,-1845,358,404
+StonePlantMound,-1849,-1844,456,461

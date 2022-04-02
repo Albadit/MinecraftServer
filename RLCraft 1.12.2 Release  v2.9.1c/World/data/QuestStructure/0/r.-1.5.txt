@@ -1,0 +1,2 @@
+OldWatchtower,-789,-776,2718,2730
+StonePlantMound1,-813,-807,2681,2687

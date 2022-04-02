@@ -1,0 +1,11 @@
+ClayWaterMound1,-472,-461,2066,2076
+RLCraft_BasicSpider,-419,-419,2106,2106
+RLCraft_UndergroundRuin1,-425,-416,2100,2109
+StonePlantMound2,-394,-381,2147,2159
+StonePlantMound,-500,-495,2158,2163
+StonePlantMound1,-375,-369,2174,2180
+MeteorSite,-240,-225,2053,2083
+StonePlantMound3,-511,-502,2174,2185
+StoneBoulder,-495,-486,2304,2313
+StoneLeafMound,-438,-431,2292,2301
+SmallWoodenCottage1,-513,-502,2520,2526

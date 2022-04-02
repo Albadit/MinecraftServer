@@ -1,0 +1,2 @@
+StoneBoulder,2915,2924,-202,-193
+StoneBoulder,2936,2945,-154,-145

@@ -1,0 +1,13 @@
+RLCraft_SmallUndergroundSkeleton,-1988,-1980,526,534
+StonePlantMound,-1969,-1964,522,527
+ShrineSmallEarth,-2048,-2036,726,738
+StonePlantMound,-1996,-1991,866,871
+ShrineSmallFire,-1985,-1975,804,814
+ShrineSmallFire,-2050,-2040,925,935
+RLCraft_UndergroundFarm,-2032,-1990,911,954
+UndergroundCrypt,-1984,-1956,627,641
+StoneBoulder,-1927,-1918,638,647
+MeteorSite,-2042,-2027,922,952
+StonePlantMound,-1911,-1906,724,729
+StonePlantMound2,-1877,-1864,818,830
+StonePlantMound3,-1882,-1871,840,849
