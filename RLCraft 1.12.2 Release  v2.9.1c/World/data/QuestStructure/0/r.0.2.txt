@@ -3,3 +3,5 @@ StoneBoulder,-19,-10,1496,1505
 RLCraft_BasicCaveSpider,-139,-139,1517,1517
 RLCraft_UndergroundRuin1,-145,-136,1514,1523
 StoneLeafMound,271,280,1478,1485
+WoodWallRemains,-423,-415,1515,1543
+StonePlantMound1,-381,-375,1294,1300

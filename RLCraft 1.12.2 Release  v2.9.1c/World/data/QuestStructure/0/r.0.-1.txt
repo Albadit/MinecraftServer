@@ -1,3 +1,10 @@
 DinosaurSkull,31,42,-631,-612
 SmallFortRuins,-267,-235,-627,-597
 RLCraft_SmallUndergroundSkeleton,-264,-256,-566,-558
+RLCraft_SmallUndergroundSkeleton,-458,-450,-522,-514
+P_SpookyHouse,-376,-350,-627,-587
+StonePlantMound,-354,-349,-647,-642
+StonePlantMound4,-315,-308,-667,-660
+StonePlantMound2,-364,-351,-663,-651
+StonePlantMound4,-384,-377,-691,-684
+StonePlantMound3,-362,-353,-731,-720

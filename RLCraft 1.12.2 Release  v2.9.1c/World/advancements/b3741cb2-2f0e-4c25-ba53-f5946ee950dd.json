@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2022-04-03 17:51:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2022-03-26 23:54:44 +0100"
@@ -176,6 +182,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-03-27 21:57:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-04-03 01:44:06 +0200"
     },
     "done": true
   },
@@ -299,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-04-03 17:16:20 +0200"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:diamond_nunchaku": {
     "criteria": {
       "has_diamond": "2022-03-26 23:50:32 +0100"
@@ -366,8 +384,10 @@
       "cooked_beef": "2022-04-02 00:50:37 +0200",
       "apple": "2022-03-27 22:45:38 +0200",
       "melon": "2022-03-27 22:20:01 +0200",
+      "pumpkin_pie": "2022-04-03 02:24:57 +0200",
       "bread": "2022-03-26 23:52:58 +0100",
-      "cooked_chicken": "2022-03-28 23:02:23 +0200"
+      "cooked_chicken": "2022-03-28 23:02:23 +0200",
+      "carrot": "2022-04-03 17:18:16 +0200"
     },
     "done": false
   },
@@ -380,6 +400,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2022-03-27 22:12:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-04-03 01:36:25 +0200"
     },
     "done": true
   },
@@ -439,6 +465,7 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
+      "hills_defiled": "2022-04-03 02:56:52 +0200",
       "swamp_defiled": "2022-03-26 23:49:03 +0100"
     },
     "done": false
@@ -454,6 +481,12 @@
       "has_planks": "2022-03-27 20:16:40 +0200"
     },
     "done": true
+  },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "scuttler": "2022-04-03 02:58:21 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
@@ -557,6 +590,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone_uncraft": {
+    "criteria": {
+      "has_material": "2022-04-03 18:31:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-03-27 21:57:57 +0200"
@@ -599,15 +638,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2022-04-03 17:31:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2022-03-28 18:37:27 +0200"
     },
     "done": true
   },
+  "craftablechainmail:craft_iron_nugget": {
+    "criteria": {
+      "iron_nugget": "2022-04-03 02:40:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2022-03-26 23:54:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2022-04-03 02:14:02 +0200"
     },
     "done": true
   },
@@ -656,6 +713,12 @@
   "defiledlands:recipes/armor/umbrium_helmet": {
     "criteria": {
       "has_material": "2022-03-28 19:10:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-04-03 17:16:20 +0200"
     },
     "done": true
   },
@@ -743,6 +806,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_bricks": {
+    "criteria": {
+      "has_material": "2022-04-03 18:31:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2022-03-27 20:16:40 +0200"
@@ -791,9 +860,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone": {
+    "criteria": {
+      "has_material": "2022-04-03 18:31:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2022-03-27 21:57:57 +0200"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_mossy": {
+    "criteria": {
+      "has_material": "2022-04-03 18:31:38 +0200"
     },
     "done": true
   },
@@ -913,6 +994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2022-04-03 03:43:25 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-03-27 21:55:36 +0200"
@@ -967,6 +1054,18 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2022-04-03 18:31:38 +0200"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_mossy": {
+    "criteria": {
+      "has_material": "2022-04-03 18:31:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2022-04-02 01:10:01 +0200"
@@ -976,6 +1075,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-03-27 21:57:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2022-04-03 02:14:02 +0200"
     },
     "done": true
   },
@@ -1048,6 +1153,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2022-03-27 21:36:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2022-04-03 02:14:02 +0200"
     },
     "done": true
   },
@@ -1282,6 +1393,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-03-28 18:27:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2022-04-03 17:51:30 +0200"
     },
     "done": true
   },
@@ -1621,6 +1738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-04-03 03:43:25 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2022-03-27 22:51:43 +0200"
@@ -1630,11 +1753,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2022-03-26 23:52:33 +0100",
+      "birch_forest": "2022-04-03 18:18:13 +0200",
       "deep_ocean": "2022-03-26 23:33:33 +0100",
       "beaches": "2022-03-26 23:33:50 +0100",
+      "extreme_hills_with_trees": "2022-04-03 18:21:38 +0200",
       "forest_hills": "2022-03-26 23:46:19 +0100",
       "plains": "2022-03-26 23:45:35 +0100",
+      "taiga": "2022-04-03 02:43:03 +0200",
+      "taiga_hills": "2022-04-03 02:47:47 +0200",
+      "birch_forest_hills": "2022-04-03 18:18:04 +0200",
       "ocean": "2022-03-26 23:33:43 +0100",
+      "extreme_hills": "2022-04-03 01:51:28 +0200",
+      "roofed_forest": "2022-04-03 18:26:35 +0200",
       "river": "2022-03-26 23:34:58 +0100"
     },
     "done": false
@@ -1654,6 +1784,12 @@
   "familiarfauna:recipes/tools/bug_habitat": {
     "criteria": {
       "has_glass": "2022-03-27 21:57:57 +0200"
+    },
+    "done": true
+  },
+  "spartanweaponry:explode_creeper": {
+    "criteria": {
+      "killed_skeleton": "2022-04-03 02:28:30 +0200"
     },
     "done": true
   },
@@ -1690,6 +1826,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-03-27 20:25:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2022-04-03 02:40:22 +0200"
     },
     "done": true
   },
@@ -1747,6 +1889,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-04-03 02:06:27 +0200"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:gold_nunchaku": {
     "criteria": {
       "has_gold": "2022-03-28 18:27:10 +0200"
@@ -1798,6 +1946,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2022-03-28 18:27:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-04-03 01:51:51 +0200"
     },
     "done": true
   },
@@ -1933,6 +2087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2022-04-03 02:38:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-03-26 23:50:39 +0100"
@@ -1948,6 +2108,12 @@
   "defiledlands:recipes/misc/healing_pad": {
     "criteria": {
       "has_material": "2022-03-28 19:10:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-04-03 03:43:25 +0200"
     },
     "done": true
   },

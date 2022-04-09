@@ -1,0 +1,4 @@
+StoneLeafMound,-1035,-1028,894,903
+StoneBoulder,-1044,-1035,865,874
+DinosaurSkeleton,-1051,-1042,843,889
+StonePlantMound4,-1059,-1052,661,668

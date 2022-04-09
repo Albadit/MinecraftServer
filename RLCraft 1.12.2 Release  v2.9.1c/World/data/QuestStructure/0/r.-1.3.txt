@@ -17,3 +17,17 @@ IceThorn,-759,-744,1680,1706
 RLCraft_SmallTown,-869,-798,1812,1887
 SmallAbandonedMine,-855,-830,1730,1745
 StonePlantMound3,-881,-872,1815,1826
+P_Village2Story,-932,-919,1798,1804
+P_VillageHouse,-938,-927,1816,1825
+DinosaurSkeleton,-975,-929,1943,1952
+P_VillageFarmhouse,-967,-955,1776,1788
+SeasonsGreenhouse,-974,-964,1798,1810
+StonePlantBoulder,-997,-987,1948,1958
+StonePlantMound3,-950,-939,2027,2036
+DinosaurSkeleton,-1043,-997,1957,1966
+RLCraft_DecentWitch,-846,-846,1569,1569
+RLCraft_UndergroundRuin3,-851,-843,1567,1575
+RLCraft_FriendlyOutpost,-878,-839,1581,1649
+RLCraft_DecentSpider,-788,-788,1607,1607
+RLCraft_UndergroundRuin3,-790,-782,1604,1612
+MeteorSite,-943,-913,1610,1625

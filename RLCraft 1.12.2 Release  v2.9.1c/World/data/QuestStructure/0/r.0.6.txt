@@ -1,0 +1,16 @@
+StonePlantMound,-57,-52,3084,3089
+RLCraft_BasicCaveSpider,-57,-57,3116,3116
+RLCraft_UndergroundRuin1,-60,-51,3113,3122
+StonePlantBoulder,-8,2,3123,3133
+StoneBoulder,-128,-119,3148,3157
+ClayWaterMound,-95,-88,3140,3148
+StonePlantMound2,-13,-1,3141,3154
+RLCraft_SmallUndergroundSkeleton,-90,-82,3190,3198
+RLCraft_BasicCaveSpider,23,23,3195,3195
+RLCraft_UndergroundRuin1,17,26,3189,3198
+ClayWaterMound,28,36,3207,3214
+RLCraft_NetherPortal2_Felix,-433,-404,3118,3160
+DinosaurSkull,-397,-386,3128,3147
+StonePlantMound3,-463,-452,3202,3211
+StonePlantMound3,-164,-153,3237,3246
+StonePlantMound2,-478,-466,3232,3245

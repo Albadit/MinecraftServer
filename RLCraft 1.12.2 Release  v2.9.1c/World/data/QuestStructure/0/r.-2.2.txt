@@ -1,0 +1,14 @@
+StonePlantMound,-1454,-1449,1458,1463
+StonePlantBoulder,-1445,-1435,1402,1412
+WoodThornBig,-1431,-1418,1405,1418
+ClayWaterMound1,-1324,-1314,1360,1371
+StonePlantBoulder,-1301,-1291,1327,1337
+StoneLeafMound,-1285,-1276,1315,1322
+RLCraft_DecentCaveSpider,-1142,-1142,1320,1320
+RLCraft_UndergroundRuin2,-1147,-1137,1315,1322
+ShrineSmallAir,-1073,-1065,1280,1288
+RLCraft_4Towers,-1121,-1061,1234,1286
+DinosaurSkeleton,-1194,-1185,1223,1269
+RLCraft_DecentSkeleton,-1281,-1281,1245,1245
+RLCraft_UndergroundRuin2,-1286,-1276,1240,1247
+StonePlantMound4,-1255,-1248,1197,1204
